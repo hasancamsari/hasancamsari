@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi, I'm Hasan ÇAMSARI 👋
 
-## Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile!
 
 Here, I share my work on **C#**, **HTML**, **CSS**, **JavaScript**, and **Java**. Feel free to explore the repositories and projects I've been working on.
 
